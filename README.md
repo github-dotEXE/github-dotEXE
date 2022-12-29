@@ -3,5 +3,5 @@
 # Welcome
 
 ### Discord Server:
-https://discord.gg/vytuPSmJ4c
-for questions and general talk
+https://discord.gg/vytuPSmJ4c 
+for questions, suggestions, and general talk
