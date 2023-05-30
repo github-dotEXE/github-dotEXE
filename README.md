@@ -2,6 +2,8 @@
 
 # Welcome
 
+Artifacts(the Repo) can be found here: http://exe.ddns.net:8081/
+
 ### Discord Server:
 https://discord.gg/vytuPSmJ4c 
 for questions, suggestions, and general talk
