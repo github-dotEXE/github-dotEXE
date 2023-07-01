@@ -5,5 +5,4 @@
 Artifacts(the Repo) can be found here: [Meins Repo](http://repo.etwas--anders.de:8081)
 
 ### Discord Server:
-https://discord.gg/vytuPSmJ4c 
-for questions, suggestions, and general talk
+[Meins Discord Server](https://discord.gg/vytuPSmJ4c) for questions, suggestions, and general talk
