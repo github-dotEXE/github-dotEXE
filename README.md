@@ -2,7 +2,7 @@
 
 # Welcome
 
-Artifacts(the Repo) can be found here: http://repo.etwas--anders.de/
+Artifacts(the Repo) can be found here: [repo.etwas--anders.de/](http://repo.etwas--anders.de:8081)
 
 ### Discord Server:
 https://discord.gg/vytuPSmJ4c 
